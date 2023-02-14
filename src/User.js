@@ -1,7 +1,7 @@
 const scooterApp = require('./ScooterApp')
 
 class User {
-  // User code here
+ 
   constructor(username, password, age){
     this.username = username
     this.password = password
